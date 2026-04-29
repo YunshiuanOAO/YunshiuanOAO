@@ -2,5 +2,5 @@
 
 I'm [yunshiuan](https://yunshiuan.com/) , a CS student in NCKU
 
-Now I focusing on Cyber Security about Blue Team skills , such as Forensic or Threat Hunting
+Now I am focusing on Blue Team Cyber Security skills, such as Forensics or Threat Hunting
 
